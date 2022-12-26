@@ -1,0 +1,73 @@
+body{
+    /* background:linear-gradient(60deg , rgb(177, 59, 124) ,rgb(212, 199, 201) ,lightblue );             */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.Division3{
+    background:linear-gradient(120deg , rgb(180, 79, 32) ,rgb(224, 88, 156) ,rgb(34, 146, 184) );
+    font-family: Arial;
+    width: 70%;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px; 
+    text-align:center;
+    padding-bottom: 20px;
+}
+.pass3 {
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+p {
+    text-align: center;
+    font-size: large;
+}
+input{
+    height: 35px;
+    width: 67%;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 27px;
+    font-size: medium;
+    border: none;
+}
+.Division3 button {
+    width:78%;
+    height: 37px;
+    background-color: rgb(224, 59, 123);
+    border-radius: 4px;
+    margin-top: 20px;
+    color: white;
+    margin-left: -15px;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    font-size: medium;
+    
+}
+.message3{
+ background-color: black;
+ height: 38px;
+ width: 43px;
+ position: absolute;
+ top: 52.5%;
+ left: 33.8%;
+ border-top-left-radius: 4px;
+ border-bottom-left-radius: 4px;
+ 
+}
+.mess {
+    height: 35px;
+    margin-left: 5px; 
+    margin-top: -1px;
+}
+.login3 {
+    cursor: pointer;
+    display: block;
+    text-decoration: none;   
+    color: white;
+}

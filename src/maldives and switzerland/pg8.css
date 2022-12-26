@@ -1,0 +1,60 @@
+/* body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+} */
+.heading4 {
+  background-image: url("images/Maldives_0000_Maldives_shutterstock_263883767.jpg");
+
+}
+.heading {
+  text-align: center;
+}
+#vertical-line{
+    margin-top: 79px;;
+    height: 480px;
+    border-left: 3px solid black;
+    margin-left: 673px;
+}
+.image-1 {
+  width: 450px;
+  position: absolute;
+  right: 50px;
+  top: 80px;
+  /* border-radius: 70px; */
+  box-shadow: 5px 0px 5px 5px rgba(0, 0, 0, 5);
+}
+.image-2 {
+  width: 450px;
+  height: 280px;
+  position: absolute;
+  right: 110px;
+  bottom: -30px;
+  /* border-radius: 70px; */
+  box-shadow: 5px 0px 5px 6px rgba(0, 0, 0, 5);
+}
+ .booking {
+  /* background: blue; */
+  /* color: white;
+  padding: 30px;
+  border: none;
+  bottom: 20px;
+  left: 700px;
+  -moz-border-radius: 300px / 50px;
+  -webkit-border-radius: 300px / 50px;
+  border-radius: 120px / 50px;
+  position: fixed; */
+  width: 10px;
+} 
+.sidetext {
+  position: absolute;
+  top: 62px;
+  width: 700px;
+  left: 70px;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: medium italic;
+}
+.sidetext li {
+  z-index: 100;
+}

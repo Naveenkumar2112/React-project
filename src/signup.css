@@ -1,0 +1,125 @@
+body{
+    /* background:linear-gradient(60deg , rgb(177, 59, 124) ,rgb(212, 199, 201) ,lightblue );             */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.Division2{
+    background:linear-gradient(120deg , rgb(180, 79, 32) ,rgb(224, 88, 156) ,rgb(34, 146, 184) );
+    font-family: Arial;
+    width: 80%;
+    padding-left: 50px;
+    border-radius: 10px; 
+    padding: 20px;
+    padding-left: 50px;
+}
+.first2 , .last2 , .Contact2 {
+    height: 30px;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    width: 95%;
+    margin-left: 0px;
+
+}
+.Contact2{
+    width: 42%;
+}
+.Division2 p {
+    text-align: left;
+}
+ p {
+ margin-bottom: 5px;    
+}
+.mail2, .pass2 {
+    height: 30px;
+    width: 70%;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+    margin-left: 41px
+}
+
+.butto {
+    width: 81%;
+    height: 30px;
+    background-color: rgb(224, 59, 123);
+    margin-bottom: 20px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 0px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+}
+.hr2 {
+    position: relative;
+    margin-right: 80px;
+    margin-bottom: 30px;
+    
+}
+.or2 {
+    position: absolute;
+    top: 77.5%;
+    background-color: white;
+    padding: 1px 4px;
+    right: 52%;
+    font-size: 14px;
+    border-radius: 4px;
+}
+.forgot2{
+    margin-left: 145px;
+}
+::placeholder{
+    padding-left: 5px;
+}
+.dont2{
+    text-decoration: none;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    color: white;
+}
+.profile2{
+ background-color: black;
+ height: 33.5px;
+ width: 43px;
+ position: absolute;
+ top: 51.6%;
+ border-top-left-radius: 4px;
+ border-bottom-left-radius: 4px;
+ 
+}
+.lock2 {
+  background-color: rgb(20, 18, 18);
+ height: 33.5px;
+ width: 43px;
+ position: absolute;
+ top: 63.5%;
+ border-top-left-radius: 4px;
+ border-bottom-left-radius: 4px;
+}
+.profile2 img {
+    height: 27px;
+    margin-left: 7px;
+    margin-top: 3px;   
+}
+.lock2 img {
+    height: 27px;
+    margin-left: 11px;
+    margin-top: 3px;
+}
+.name2 {
+    display: flex;
+    flex-direction: row;
+
+}
+.fdiv2 {
+   margin-right: 40px;
+
+}

@@ -1,0 +1,61 @@
+/* body{
+    background-repeat: no repeat;
+    background-size: cover;
+    position:relative;
+} */
+.heading2{
+    background-image: url("images/kbackground.jpg");
+
+}
+#heading{
+    text-align:center;
+}
+#vertical-line{
+    margin-top: 79px;;
+    height: 383px;
+    border-left: 3px solid black;
+    margin-left: 673px;
+}
+.image-1{
+    border-radius: 20px;
+    position:absolute;
+    width:400px;
+    left: 50px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,6);
+}
+.image-2{
+    border-radius: 20px;
+    position:absolute;
+    width:400px;
+    top: 400px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,6);
+    left: 50px;
+}
+.sidetext{
+    position:absolute;
+    top:90px;
+    width: 800px;
+    left:650px;
+    font-weight:bold;
+    font-size: 20px;
+    text-align:justify;
+}
+.sidetext li{
+    z-index: 2;
+}
+.booking-2{
+
+background:blue;
+color:white;
+padding : 30px;
+border: none;
+bottom: 70px;
+left: 800px;
+-moz-border-radius: 300px / 50px;
+-webkit-border-radius: 300px / 50px;
+border-radius: 120px / 50px;
+position :fixed; 
+}
+.vertical-line{
+margin-top: 20px;
+}

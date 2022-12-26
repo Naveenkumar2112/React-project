@@ -1,0 +1,123 @@
+    
+
+    
+    .bg{
+        height: 10px;
+        width: 200%;
+        position: absolute;
+        z-index: -1;
+        left: 0;
+        text-align: center;
+    }
+    .book {
+        background: blue;
+        text-decoration: none;
+        padding: 30px;
+        border: none;
+        bottom: 20px;
+        left: 600px;
+        -moz-border-radius: 300px / 50px;
+        -webkit-border-radius: 300px / 50px;
+        border-radius: 120px / 50px;
+        position: fixed;
+        height: 80px;
+        width: 180px;
+    
+      } 
+    .book1{
+        text-decoration: none;
+        color: white;
+        position: absolute;
+        bottom: 10px;
+        left: 8px;
+    }  
+    .head{
+        position: absolute;
+        left:300px;
+        top:20px;
+        font-weight: bolder;
+        font-size: 30px;
+    }
+    .image1{
+        position :absolute;
+        width: 300px;
+        height: 250px;
+        top:100px;
+        left:20px;
+        border-radius: 15%;
+        box-shadow: 10px 10px 10px  #000000;
+    }
+    .image2{
+        position :absolute;
+        width: 300px;
+        height: 250px;
+        top:400px;
+        left:400px;
+        border-radius: 15%;
+        box-shadow: 10px 10px 10px #000000;
+    }
+    .line1{
+        position: absolute;
+        left: 820px;
+        top:150px;
+        width:2.5px;
+        height: 430px;
+        color: #000000;
+        z-index: 1;
+    }
+    .do1{
+        position:absolute;
+        z-index: 2;
+        top: 140px;
+        left: 814px;
+    }
+    .do2{
+        position:absolute;
+        z-index: 2;
+        top: 280px;
+        left: 814px;
+    }
+    .do3{
+        position:absolute;
+        z-index: 2;
+        top: 440px;
+        left: 814px;
+    }
+    .do4{
+        position:absolute;
+        z-index: 2;
+        top: 580px;
+        left: 814px;
+    }
+    .n1{
+        position: absolute;
+        left: 840px;
+        top:98px;
+        right: 30px;
+        font-size: 22px;
+        font-weight: bold; 
+    }
+    .n2{
+        position: absolute;
+        left: 840px;
+        top:215px;
+        right:30px;
+        font-size:22px; 
+        font-weight: bold; 
+    }
+    .n3{
+        position: absolute;
+        left: 840px;
+        top:365px;
+        right:30px;
+        font-size:22px; 
+        font-weight: bold; 
+    }
+    .n4{
+        position: absolute;
+        left: 840px;
+        top:480px;
+        right:30px;
+        font-size:22px;
+        font-weight: bold; 
+    }

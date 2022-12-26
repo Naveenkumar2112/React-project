@@ -1,0 +1,177 @@
+
+/* body{
+    margin: 0;
+} */
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0px;
+}
+/* .header{
+    background-image: url('./im/bg.jpg');
+    background-size: cover;
+    height: 1080px;
+    width:1920px;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 15px;
+} */
+
+.dom{
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    top: 10px;
+    left: 10px;
+    /* display:inline; */
+    
+}
+.domestic{
+    position: absolute;
+    color: black;
+    top: 25px ;
+    left: 150px;
+    font-size: larger;
+    z-index: 1;
+}
+.int{
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    right:10px;
+    top:280px;
+}
+.international{
+    position: absolute;
+    z-index: 1;
+    color: black;
+    right: 130px;
+    top: 300px;
+    font-size: larger;
+}   
+
+.trek{
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    top:580px ;
+    left:10px;
+    
+}
+.trekking{
+    position: absolute;
+    top:580px;
+    left :180px;
+    color: black;
+    font-size: larger ;
+    z-index: 1;
+
+}
+.arrow1{
+    position: absolute;
+    left: 500px;
+    top:100px;
+    height: 50px;
+    width: 150px;
+}
+.r1{
+    position: absolute;
+    left:700px;
+    top: 40px;
+    z-index: 1;
+}
+.manali{
+    position: absolute;
+    left:765px;
+    top: 50px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+.r2{
+    position: absolute;
+    left:700px;
+    top: 150px;
+}
+.goa{
+    position: absolute;
+    left:775px;
+    top: 160px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+.arrow2{
+    position: absolute;
+    right:500px;
+    top:360px;
+    height: 50px;
+    width: 150px;
+}
+.r3{
+    position: absolute;
+    right:700px;
+    top: 300px;
+}
+.maldives{
+    position: absolute;
+   right: 750px;
+    top: 310px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+.r4{
+    position: absolute;
+    right:700px;
+    top: 440px;
+}
+.switzerland{
+    position: absolute;
+    right:730px;
+    top: 450px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+.arrow3{
+    position: absolute;
+    left:500px ;
+    top:700px;
+    height: 50px;
+    width: 150px;
+}
+.r5{
+    position: absolute;
+    left:700px;
+    top: 630px;
+}
+.kokan{
+    position: absolute;
+    left:740px;
+    top: 640px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+.r6{
+    position: absolute;
+    left:700px;
+    top: 750px;
+}
+.himalaya{
+    position: absolute;
+    left:745px;
+    top: 760px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
